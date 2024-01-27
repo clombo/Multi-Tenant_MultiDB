@@ -1,0 +1,7 @@
+namespace MTA.Domain.Models;
+
+public class CreateTenantRequest
+{
+    public string Id { get; set; }
+    public string Name { get; set; }
+}

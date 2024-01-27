@@ -1,0 +1,10 @@
+.idea/*
+
+/MTA.API/bin/*
+/MTA.API/obj/*
+
+/MTA.Data/bin/*
+/MTA.Data/obj/*
+
+/MTA.Domain/bin/*
+/MTA.Domain/obj/*
